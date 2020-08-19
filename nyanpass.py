@@ -15,9 +15,9 @@ Usage:
     ::
 
 """
-import requests
 import datetime
 
+import requests
 
 BASE_URL = "http://nyanpass.com/"
 
