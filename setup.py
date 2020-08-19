@@ -5,5 +5,5 @@ setup(
     description="API wrapper for https://nyanpass.com",
     author="NashiroAoi",
     author_email="https://twitter.com/nashiroaoi",
-    packages=["requests"]
+    install_requires=["requests"]
 )
